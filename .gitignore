@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+venv/
+.env
+.sqlite3
+db.sqlite3  # Specific database file example
+migrations/  # Or exclude migration files if managed separately
+media/  # Optional, exclude media files
+static/  # Optional, exclude static files
+local_settings.py  # Example local development configuration
+*.log  # Log files
